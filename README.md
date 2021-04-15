@@ -72,4 +72,4 @@
 ### 진행 미션
 |Level |Topic |Repository |Pull Request |Reviewer |
 |:----:|:----:|:---------:|:-----------:|:-------:|
-|1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-3/da-nyee/LEVEL1.md](https://github.com/TaewanKimmmm/woowa-writing-3/blob/main/level1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/50)|[포코](https://github.com/devJang)|
+|1 - 기록|우아한테크코스 한 달 생활기|[woowa-writing-3/Taewankimmmm/LEVEL1.md](https://github.com/TaewanKimmmm/woowa-writing-3/blob/main/level1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/50)|[포코](https://github.com/devJang)|
