@@ -1,9 +1,5 @@
 # 🚀 woowacourse-projects
 
-<p align="center">
-    <img src= "https://user-images.githubusercontent.com/50273712/114844286-9a96ad80-9e15-11eb-802a-3207871ea99c.png" width="50%">
-</p>
-
 > [우아한테크코스](https://woowacourse.github.io/) 3기에서 학습한 내용을 정리하는 저장소
 
 <br/>
